@@ -16,11 +16,9 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from django.conf.urls import include
-from do_it_django_prj import views
 
 
 urlpatterns = [
-    path('blog', include('blog.urls')),
+    path('blog/', include('blog.urls')),
     path('admin/', admin.site.urls),
-    path('do_it_django_prj/', views.index),
 ]
