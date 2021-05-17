@@ -1,0 +1,126 @@
+|CTAG_1620616482_148832937_7460_0
+|d
+C:\Users\kjh19\OneDrive\바탕 화면\do_it_django\do_it_django
+cd C:\Users\kjh19\OneDrive\바탕 화면\do_it_django\do_it_django
+https://github.com/kimjonghoon123/do_it_django.git
+|it clone https://github.com/kimjonghoon123/do_it_django.git
+|d
+|d
+|d
+|d
+|d
+|d
+|d
+|d
+|d
+cd /
+|d github\
+git clone https://github.com/kimjonghoon123/do_it_django.git
+cd github\
+|s
+cd do_it_django\
+|s
+ls -A
+|env\Scripts\activate.bat
+|ip list
+deactivate
+|env\Scripts\activate.bat
+pip install dfango
+pip install django
+|ip list
+|env\Scripts\activate.bat
+|d
+|d C:\github\do_it_django_a_to_z
+|env\Scripts\activate.bat
+|ython manage.py runserver
+|it add .
+|it commit -m "대문 페이지와 자기소개 페이지 만들기"
+|it push
+|ython manage.py runserver
+|ython manage.py runserver
+|it add .
+git commit -m "대문 페이지와 자기소개 페이지 만들기"
+|it push
+|ython manage.py runserver
+|ython manage.py runserver
+|thon manage.py runserver
+|ython manage.py runserver
+ython manage.py runserver
+|ython manage.py runserver
+|ython manage.py runserver
+|ython manage.py runserver
+|ython manage.py runserver
+|it add .
+git commit -m "부트스트랩 적용하기"
+|it push
+|ython manage.py runserver
+cd
+|d C:\github\do_it_django_a_to_z
+|ython manage.py runserver
+|s
+ls
+venv\Scripts\activate.bat 
+|ython manage.py runserver
+venv\Scripts\actvaite.bat
+venv\Scripts\actvaibe.bat
+venv\Scripts\actvative.bat
+venv\Scripts\actvate.bat
+|env\Scripts\activate.bat
+|env\Scripts\activate.bat
+|d C:\github\do_it_django_a_to_z
+|env\Scripts\activate.bat
+pyhton manage.py runserver
+|ython manage.py runserver
+git add.
+|it add .
+git commit -m "포스트 부트스트랩 적용하기"
+git push
+|ython manage.py makemigrations
+python -m pip install Pillow
+pip list
+|ython manage.py makemigrations
+pthon manage.py makemigrations
+|ython manage.py makemigrations
+|ython manage.py makemigrations
+|ython manage.py makemigrations
+|ython manage.py makemigrations
+|ython manage.py makemigrations
+|ython manage.py migrate
+|ython manage.py makemigrations
+|ython manage.py migrate
+|ython manage.py runserver
+|ython manage.py runserver
+|it add .
+git commit -m "이미지 출력"
+git commit -m  "이미지 출력"
+it
+|it add .
+cd C:\github\do_it_django_a_to_z
+venv\Scripts\activate.bat
+|it add .
+|it add .
+|it config core.autocrlf true
+|it add .
+|it add .
+|it add .
+|it config core.autocrlf true
+|it config core.autocrlf true
+|it config core.autocrlf true
+|it config core.autocrlf true
+|it config core.autocrlf true
+|it config core.autocrlf true
+git config core.autocrlf true
+gitadd .
+|it add .
+git config core.safecrlf false
+|it add .
+|it add .
+|ython manage.py runserver
+|ython manage.py runserver
+python manage.py makemigrations
+python manage.py migrate
+python mange.py runserver
+python manage.py runserver
+|it add .
+git add --ignore-errors
+git add .
