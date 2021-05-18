@@ -74,7 +74,7 @@ pyhton manage.py runserver
 git add.
 |it add .
 git commit -m "포스트 부트스트랩 적용하기"
-git push
+|it push
 |ython manage.py makemigrations
 python -m pip install Pillow
 pip list
@@ -95,8 +95,8 @@ git commit -m "이미지 출력"
 git commit -m  "이미지 출력"
 it
 |it add .
-cd C:\github\do_it_django_a_to_z
-venv\Scripts\activate.bat
+|d C:\github\do_it_django_a_to_z
+|env\Scripts\activate.bat
 |it add .
 |it add .
 |it config core.autocrlf true
@@ -117,10 +117,29 @@ git config core.safecrlf false
 |it add .
 |ython manage.py runserver
 |ython manage.py runserver
-python manage.py makemigrations
-python manage.py migrate
+|ython manage.py makemigrations
+|ython manage.py migrate
 python mange.py runserver
-python manage.py runserver
+|ython manage.py runserver
 |it add .
 git add --ignore-errors
+|it add .
+git add --ignore-errors .
+|it add .
+|it add -p.
+git add -p.
+git commit -m "파일올리기,이미지관리"
+git push
+|ython manage.py runserver
+python manage.py makemigrations
+python manage.py migrate
+|ython manage.py runserver
+|ython manage.py test
+python manage.py test
+pip install beautifulsoup4
+python manage.py runserver
+|it add .
+cd C:\github\do_it_django_a_to_z
+venv\Scripts\activate.bat
 git add .
+git add -p .
